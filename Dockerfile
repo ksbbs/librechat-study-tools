@@ -10,4 +10,4 @@ RUN npm run build
 
 EXPOSE 3100
 
-CMD ["node", "dist/http-server.js"]
+CMD ["node", "dist/index.js"]
